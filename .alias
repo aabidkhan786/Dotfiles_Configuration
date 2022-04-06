@@ -1,0 +1,24 @@
+#Setting up some basic aliases
+
+#Linux terminal aliases
+
+#Alias for file tree structure
+alias ftree='tree -f'
+
+#Alias for directory tree structure
+alias dtree='tree -d'
+
+#Alias for hidden file tree structure
+alias hftree='tree -f -a'
+
+#Alias for hidden directory structure
+alias hdtree='tree -d -a'
+
+#Alias for clearing screen
+alias cls='clear'
+
+#Alias for directing to home directory
+alias home='cd $HOME'
+
+#Alias for directing to work directory
+alias work='cd $HOME/work/Work'
