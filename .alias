@@ -22,3 +22,9 @@ alias home='cd $HOME'
 
 #Alias for directing to work directory
 alias work='cd $HOME/work/Work'
+
+#Alias for all hidden file in list format
+alias la='ls -la' 
+
+#Alias for Development folder in Windows System
+alias development='cd /mnt/c/Users/Hp/Desktop/Development/'
